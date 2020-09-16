@@ -1,0 +1,2 @@
+# bashtest
+to test script
